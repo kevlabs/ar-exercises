@@ -11,4 +11,4 @@ puts "----------"
 
 puts "Store name????"
 name = gets.chomp
-Store.create!(name: name)
+# Store.create!(name: name)

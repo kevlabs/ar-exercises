@@ -7,9 +7,4 @@ require_relative './exercise_5'
 require_relative './exercise_6'
 require_relative './exercise_7'
 
-puts "Exercise 8"
-puts "----------"
 
-puts "Store name????"
-name = gets.chomp
-Store.create!(name: name)
